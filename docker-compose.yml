@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: valdirMiranda/nginx-vts
+    image: valdir-Miranda/nginx-vts
     ports:
     - "8002:8002"
   prometheus:
